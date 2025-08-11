@@ -144,7 +144,7 @@ mapping:
 
 # Запуск скрипта
 
-В _main.py_ в переменную _AIDBOX_BASIC_PASS_ подставляем пароль из docker-compose
+В _main.py_ в переменную _AIDBOX_BASIC_PASS_ подставляем пароль из _docker-compose.yaml_
 BOX_ROOT_CLIENT_SECRET
 
 **Запускаем скрипт**
